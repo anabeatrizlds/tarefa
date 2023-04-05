@@ -1,0 +1,30 @@
+body{
+  background: #D8BFD8;
+}
+form{
+  margin: 40px 0;
+}
+form label, form legend{
+ font-size: 20px;
+ display: block;
+ margin: 0 0 10px;
+ }
+
+.input-padrao{
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%
+}
+table{
+  margin: 20px 0 40px;
+}
+thead{
+  background: #555555;
+  color: white;
+  font-weight: bold;
+}
+td, th{
+  border: 1px solid #000000;
+  padding: 8px 15px;
+}
